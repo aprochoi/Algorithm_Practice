@@ -31,6 +31,7 @@ public class Chp3_3_SeqSearchSen {
             a[i] = sc.nextInt();
         }
 
+        // 검색할 값 입력
         System.out.print("검색할 값 : ");
         int key = sc.nextInt();
 
