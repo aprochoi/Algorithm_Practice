@@ -35,6 +35,9 @@ public class Chp3_3_SeqSearchSen {
         System.out.print("검색할 값 : ");
         int key = sc.nextInt();
 
+
+
+        // 함수를 이용 하는건데 맞는건지,,,??
         int idx = seqSearchSen(a, n, key);
 
         if (idx == -1) {
